@@ -425,7 +425,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- Indra Reddy - Initial Development
+- Yama Narendra Reddy - Initial Development
 
 ## 🙏 Acknowledgments
 
